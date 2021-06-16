@@ -1,0 +1,6 @@
+word = input("jūsu vārds:")
+#word= input put tou wanted name 
+x = (word)
+#x= the unknown that will be sorted 
+"".join(sorted(x))
+# joint joins the letter when sorted 
